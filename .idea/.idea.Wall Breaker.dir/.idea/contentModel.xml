@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\swaga\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\swaga\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\ReSharperHost\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\Unity Project\Wall Breaker" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Destroyball.cs" t="Include" />
+        <e p="Destroybricks.cs" t="Include" />
+        <e p="Movement.cs" t="Include" />
+      </e>
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="com.unity.collab-proxy" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Styles" t="Include">
+                <e p="CollabHistoryCommon.uss" t="Include" />
+                <e p="CollabHistoryDark.uss" t="Include" />
+                <e p="CollabHistoryLight.uss" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="com.unity.package-manager-ui" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Styles" t="Include">
+                <e p="Main_Dark.uss" t="Include" />
+                <e p="Main_Light.uss" t="Include" />
+              </e>
+              <e p="Templates" t="Include">
+                <e p="Alert.uxml" t="Include" />
+                <e p="PackageAddFromUrlField.uxml" t="Include" />
+                <e p="PackageDetails.uxml" t="Include" />
+                <e p="PackageGroup.uxml" t="Include" />
+                <e p="PackageItem.uxml" t="Include" />
+                <e p="PackageList.uxml" t="Include" />
+                <e p="PackageManagerToolbar.uxml" t="Include" />
+                <e p="PackageManagerWindow.uxml" t="Include" />
+                <e p="PackageSearchToolbar.uxml" t="Include" />
+                <e p="PackageStatusBar.uxml" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Temp\UnityVS_bin\Debug" t="ExcludeRecursive" />
+      <e p="Temp\UnityVS_obj\Debug" t="ExcludeRecursive" />
+      <e p="Wall Breaker.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
